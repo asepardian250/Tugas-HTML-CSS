@@ -1,0 +1,43 @@
+* {
+    h1 {
+        text-align: center;
+    }
+}
+
+th {
+    background-color: rgb(59, 100, 233);
+    color: black;
+    height: 30px;
+}
+
+td {
+    color: brown;
+}
+
+td:hover {
+    background-color: orange;
+}
+
+.btn1 {
+    background-color: grey;
+    height: 30px;
+    width: 100%;
+}
+
+.btn1:hover {
+    background-color: aqua;
+    color: black;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: pink;
+    height: 30px;
+    width: 100%;
+}
+
+.btn2:hover {
+    background-color: red;
+    color: black;
+    cursor: pointer;
+}
